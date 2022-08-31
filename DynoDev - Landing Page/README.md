@@ -1,2 +1,1 @@
-# Blooger_Website
-This is the complete blooger website create using html and css
+Futura página principal de la plataforma DynoDev
